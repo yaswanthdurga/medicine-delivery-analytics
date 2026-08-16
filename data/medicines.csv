@@ -1,0 +1,21 @@
+order_id,order_date,medicine,category,quantity,customer_city,delivery_partner,delivery_status,delivery_time_hours,order_value
+ORD001,2026-08-01,Paracetamol,Pain Relief,2,Hyderabad,Partner A,Delivered,3.2,240
+ORD002,2026-08-01,Amoxicillin,Antibiotic,1,Vijayawada,Partner B,Delivered,5.1,180
+ORD003,2026-08-02,Vitamin D3,Vitamins,3,Bengaluru,Partner A,Delivered,2.8,450
+ORD004,2026-08-02,Azithromycin,Antibiotic,1,Chennai,Partner C,Delayed,9.5,320
+ORD005,2026-08-03,Ibuprofen,Pain Relief,2,Hyderabad,Partner B,Delivered,4.2,300
+ORD006,2026-08-03,Cetirizine,Allergy,1,Bengaluru,Partner A,Delivered,2.5,120
+ORD007,2026-08-04,Metformin,Diabetes,2,Chennai,Partner C,Delivered,6.2,280
+ORD008,2026-08-04,Insulin,Diabetes,1,Hyderabad,Partner B,Delayed,10.4,850
+ORD009,2026-08-05,Omeprazole,Digestion,2,Vijayawada,Partner A,Delivered,3.7,260
+ORD010,2026-08-05,Vitamin B12,Vitamins,3,Bengaluru,Partner C,Delivered,4.1,390
+ORD011,2026-08-06,Paracetamol,Pain Relief,1,Chennai,Partner B,Delivered,3.4,120
+ORD012,2026-08-06,Amoxicillin,Antibiotic,2,Hyderabad,Partner A,Delivered,4.3,360
+ORD013,2026-08-07,Vitamin D3,Vitamins,2,Vijayawada,Partner C,Delivered,5.0,300
+ORD014,2026-08-07,Ibuprofen,Pain Relief,1,Bengaluru,Partner B,Cancelled,0,150
+ORD015,2026-08-08,Metformin,Diabetes,2,Hyderabad,Partner A,Delivered,3.9,280
+ORD016,2026-08-08,Cetirizine,Allergy,2,Chennai,Partner C,Delivered,4.8,240
+ORD017,2026-08-09,Insulin,Diabetes,1,Bengaluru,Partner B,Delivered,5.7,850
+ORD018,2026-08-09,Azithromycin,Antibiotic,1,Vijayawada,Partner A,Delayed,8.2,320
+ORD019,2026-08-10,Omeprazole,Digestion,2,Hyderabad,Partner C,Delivered,4.0,260
+ORD020,2026-08-10,Vitamin B12,Vitamins,2,Chennai,Partner B,Delivered,3.6,260
